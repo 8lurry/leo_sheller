@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: leo-sheller
+Version: 0.1.0a0
+Summary: Simple sheller.
+Home-page: UNKNOWN
+Author: 8lurry
+Author-email: sharifmehedi24@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 1 - Alpha
+Classifier: Environment :: Shell Environment
+Classifier: Framework :: leo
+Classifier: Intended Audience :: AI community
+Classifier: Intended Audience :: Physics community
+Classifier: Intended Audience :: Hacker community
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Shelling
+License-File: COPYING
+
+UNKNOWN
+
