@@ -2,4 +2,6 @@
 *.pot
 *.pyc
 *.bak
+*.egg-info
+*.egg-info/*
 __pycache__/*

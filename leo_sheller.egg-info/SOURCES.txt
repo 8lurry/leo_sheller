@@ -1,6 +1,0 @@
-COPYING
-setup.py
-leo_sheller.egg-info/PKG-INFO
-leo_sheller.egg-info/SOURCES.txt
-leo_sheller.egg-info/dependency_links.txt
-leo_sheller.egg-info/top_level.txt
