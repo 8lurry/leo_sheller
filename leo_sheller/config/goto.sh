@@ -1,3 +1,4 @@
+#!/bin/bash
 BASE="$LEOsBASE";
 ZERO=0;
 
